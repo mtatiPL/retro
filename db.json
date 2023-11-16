@@ -1,25 +1,25 @@
 {
   "pytania":[
 {
-"tresc":"tresc pytania 1",
-"odpa":"odpowiedz a",
-"odpb":"odpowiedz b",
-"odpc":"odpowiedz c",
+"tresc":"Stolicą Polski było",
+"odpa":"Wilkowyje",
+"odpb":"Gniezno",
+"odpc":"Kowno",
 "poprawna":1
 },
 {
-"tresc":"tresc pytania 2",
-"odpa":"odpowiedz a",
-"odpb":"odpowiedz b",
-"odpc":"odpowiedz c",
+"tresc":"Prezydentem Polski był",
+"odpa":"Jarosław Kaczyński",
+"odpb":"Lecha Wałęsa",
+"odpc":"Paweł Kozioł",
+"poprawna":1
+},
+{
+"tresc":"Ostatnie wybory to wybory",
+"odpa":"parlamentarne",
+"odpb":"prezydenckie",
+"odpc":"samorządowe",
 "poprawna":0
-},
-{
-"tresc":"tresc pytania 3",
-"odpa":"odpowiedz a",
-"odpb":"odpowiedz b",
-"odpc":"odpowiedz c",
-"poprawna":1
 }
 ]
 
