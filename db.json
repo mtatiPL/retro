@@ -1,0 +1,27 @@
+{
+  "pytania":[
+{
+"tresc":"tresc pytania 1",
+"odpa":"odpowiedz a",
+"odpb":"odpowiedz b",
+"odpc":"odpowiedz c",
+"poprawna":1
+},
+{
+"tresc":"tresc pytania 2",
+"odpa":"odpowiedz a",
+"odpb":"odpowiedz b",
+"odpc":"odpowiedz c",
+"poprawna":0
+},
+{
+"tresc":"tresc pytania 3",
+"odpa":"odpowiedz a",
+"odpb":"odpowiedz b",
+"odpc":"odpowiedz c",
+"poprawna":1
+}
+]
+
+
+}
